@@ -2,15 +2,14 @@
 
 
 # The IP address and SSH port
-
-    ```
+```
     35.162.71.70 -p 2200
-    ```
+```
 
 # The complete URL to hosted web application.
-    ```
+```
     http://ec2-35-162-71-70.us-west-2.compute.amazonaws.com/
-    ```
+```
 
 
 # A summary of software installed
